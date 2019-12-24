@@ -1,5 +1,5 @@
 # PythonQuizApp
-A quiz application made using Python 3. GUI is built using the Tkinter library. The quiz consists of two rounds. Each question has a single word answer.
+A quiz application made using Python 3 in 2018. GUI is built using the Tkinter library. The quiz consists of two rounds. Each question has a single word answer.
 
 <b>Registration Page</b>
 <br>
